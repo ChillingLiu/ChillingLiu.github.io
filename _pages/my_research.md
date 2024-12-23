@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Undergraduate Research Assistant"
 permalink: /my_research/
 author_profile: true
 redirect_from:
@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Undergraduate Research Assistant
-#### Technion, Shantou, China
+### Technion, Shantou, China
 
-### Experience 1
+## Experience 1
 * Supervised by Prof. Guillermo Benito Morales Luna
   * Department of Mathematics with Computer Science
   * October 2023 - October 2024
@@ -23,7 +22,7 @@ redirect_from:
     * Performed the Bergamo's attack to the numerical implementation of the cryptosystem; assessed the system's robustness by pointing out the relevance of the effectiveness of the attack and *l*, *m*.
     * Spent hundreds of hours conducting extensive and in-depth research, growing into a more independent, self-motivated, and passionate learner.
 
-### Experience 2
+## Experience 2
 * Supervised by Prof. Khadga Jung Karki
   * Department of Physics, Functional Nonlinear Spectroscopy Lab
   * December 2021 - Present
@@ -33,7 +32,7 @@ redirect_from:
     * Followed the Frequency Resolved Optical Gating method to retrieve the phase from experimental data of unknown pulses based on the Principal Component Generalized Projection algorithm using Matlab/Python; refined the iteration of the algorithms by comparing and adopting various methods from literature to enhance the accuracy of the phase retrieval process.
     * Supported fellow graduate students majoring in Physics in the lab in writing scripts, developing programs, and understanding the algorithms; collaborated closely with them in analyzing optical properties of processed data after applying the algorithms and Fourier transform, such as intensity, phase, and frequency modulation.
 
-### Experience 3
+## Experience 3
 * Supervised by Dr. Thanana Nuchkrua
   * Department of Mechanical Engineering and Robotics
   * March 2021 - December 2021
