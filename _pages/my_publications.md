@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### On the Effectiveness of a Common Attack to Chebyshev Chaotic Encryption Scheme
+## On the Effectiveness of a Common Attack to Chebyshev Chaotic Encryption Scheme
 * Authors: **X Liu**, G Morales-Luna*.
 * Submitted to *Cryptography*, under review.
 * [Preprint link](https://www.preprints.org/manuscript/202412.0745/v1)
@@ -18,7 +18,7 @@ redirect_from:
 * Duties:
   * Made the implementations, performed the experiments. Wrote the manuscript with Prof. Morales-Luna.
 
-### In-operando Quantification of Single and Multiphoton Photocurrents in GaP and InGaN Photodetectors with Phase-modulated Femtosecond Light Pulses
+## In-operando Quantification of Single and Multiphoton Photocurrents in GaP and InGaN Photodetectors with Phase-modulated Femtosecond Light Pulses
 * Authors: C Wang, J Cai, **X Liu**, C Chen, X Chen, KJ Karki*.
 * Published at March 9th, 2023, *ACS Photonics*.
 * [link](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01851)
