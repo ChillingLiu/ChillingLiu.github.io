@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Research Projects
+# Research Projects
+## Computer Science
+### Polynomial Reduction
+### Chebyshev Encryption Scheme
 
-#### Polynomial Reduction
-
-#### Second Development for Equipments in Lab
-
-#### Graphical User Interface for Equipments in Lab
+## Data Analysis
+### Second Development for Equipments in Lab
+### Graphical User Interface for Equipments in Lab
 
 ## Courses Projects
+
+## Extra-curriculum
+### 3D Modeling
+### Posters
