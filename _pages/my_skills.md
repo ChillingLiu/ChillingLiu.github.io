@@ -30,7 +30,7 @@ Skills
 
 Advanced Courses
 ======
-### Mathematics
+## Mathematics
 * Analysis
   * Calculus 3, Ordinary Differential Equations, Complex Analysis, Real Analysis.
 * Abstract Algebra
@@ -39,7 +39,8 @@ Advanced Courses
   * Set Theory, Metric and Topological Spaces.
 * Others
   * Probability Theory, Numerail Analysis, Applied Mathematics.
-### Computer Science
+
+## Computer Science
 * Systems
   * System Programming, Digital Systems, Computer Organization, Operating Systems.
 * Theory
