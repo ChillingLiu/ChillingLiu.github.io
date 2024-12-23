@@ -16,7 +16,7 @@ Skills
 * Programming Languages
   * Experienced: **C/C++, Python**.
   * Moderate: MATLAB, Mathematica.
-  * Familiar: Java.
+  * Modicum: Java.
 * Programming APIs
   * Graphical User Interface: wxWidgets.
   * Numerical Analysis: GNU Multiple Precision Arithemetic Library.
