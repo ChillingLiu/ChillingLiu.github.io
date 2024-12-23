@@ -30,19 +30,19 @@ Skills
 
 Advanced Courses
 ======
-* Mathematics
-  * Analysis
-    * Calculus 3, Ordinary Differential Equations, Complex Analysis, Real Analysis.
-  * Abstract Algebra
-    * Group Theory, Ring and Filed Theory, Module Theory.
-  * Geometry
-    * Set Theory, Metric and Topological Spaces.
-  * Others
-    * Probability Theory, Numerail Analysis, Applied Mathematics.
-* Computer Science
-  * Systems
-    * System Programming, Digital Systems, Computer Organization, Operating Systems.
-  * Theory
-    * Data Structures, Combinatroial Algorithms, Theory of Computation, Modern Cryptography.
-  * Others
-    * Seminars in CS, Projects in CS.
+### Mathematics
+* Analysis
+  * Calculus 3, Ordinary Differential Equations, Complex Analysis, Real Analysis.
+* Abstract Algebra
+  * Group Theory, Ring and Filed Theory, Module Theory.
+* Geometry
+  * Set Theory, Metric and Topological Spaces.
+* Others
+  * Probability Theory, Numerail Analysis, Applied Mathematics.
+### Computer Science
+* Systems
+  * System Programming, Digital Systems, Computer Organization, Operating Systems.
+* Theory
+  * Data Structures, Combinatroial Algorithms, Theory of Computation, Modern Cryptography.
+* Others
+  * Seminars in CS, Projects in CS.
