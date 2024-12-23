@@ -12,16 +12,16 @@ redirect_from:
 ### Technion, Shantou, China
 
 ## Duties:
-* Assisted tutors and offered helpful guidance to students on comprehending and resolving difficulties they encountered during workshops.
+* Assisted tutors and offered helpful guidance to students on comprehending and resolving difficulties they encountered during tutorials or workshops.
 * Held seminars covering study techniques, exam preparation guidance, career planning, etc. to aid students in adapting to university life and succeeding in their English classes.
 
 ## Courses I taught:
 * Introduction to Computer Science M
   * Basic knowledge of programming with C language.
-  * Winter 2024
+  * Winter semester, 2024
 * Introduction to Computing with Python
   * Basic knowledge of programming with Python.
-  * Winter 2024
+  * Winter semester, 2024
 * Pre Academic Mathematics
-  * Transitions from high school math to university mathematics.
-  * Summer 2024
+  * Basic knowledge for transitions from high school math to university mathematics.
+  * Summer semester, 2024
