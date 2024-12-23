@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Undergraduate Teaching Assistant"
 permalink: /my_teaching/
 author_profile: true
 redirect_from:
@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Undergraduate Teaching Assistant
-#### Technion, Shantou, China
+### Technion, Shantou, China
 
-### Duties:
+## Duties:
 * Assisted tutors and offered helpful guidance to students on comprehending and resolving difficulties they encountered during workshops.
 * Held seminars covering study techniques, exam preparation guidance, career planning, etc. to aid students in adapting to university life and succeeding in their English classes.
 
-### Courses I taught:
+## Courses I taught:
 * Introduction to Computer Science M
   * Basic knowledge of programming with C language.
   * Winter 2024
