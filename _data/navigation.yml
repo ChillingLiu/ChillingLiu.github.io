@@ -6,22 +6,19 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /my_publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /my_research/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /my_portfolio/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Teaching"
+    url: /my_teaching/
+
+  - title: "Leadership"
+    url: /my_leadership/
+
+  - title: "Skills & Advanced Courses"
+    url: /my_skills/
