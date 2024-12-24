@@ -27,11 +27,11 @@ I made a simulation video for the experiment of the Second Harmonic Generation F
 * ![image](/images/3D2.png)
 
 ### Posters
-* <img src="/images/poster_newyear.png" width="450">
-* <img src="/images/poster_gtsa.png" width="450">
+* <img src="/images/poster_newyear.png" width="500">
+* <img src="/images/poster_gtsa.png" width="500">
 * ![image](/images/poster_party1.png)
-* <img src="/images/poster_party2.png" width="450">
-* <img src="/images/poster_singer0.png" width="450">
-* <img src="/images/poster_singer1.png" width="450">
-* <img src="/images/poster_singer2.png" width="450">
-* <img src="/images/poster_singer3.png" width="450">
+* <img src="/images/poster_party2.png" width="500">
+* <img src="/images/poster_singer0.png" width="500">
+* <img src="/images/poster_singer1.png" width="500">
+* <img src="/images/poster_singer2.png" width="500">
+* <img src="/images/poster_singer3.png" width="500">
