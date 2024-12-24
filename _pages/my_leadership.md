@@ -28,3 +28,4 @@ redirect_from:
   * October 2022, Technion, Shantou, China
     * [WeChat Public Account link](https://mp.weixin.qq.com/s/sUvy11gAss8hWWO-mM-M3g)
     * ![image](/images/party.png)
+    * ![image](/images/party2.png)
