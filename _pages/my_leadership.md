@@ -19,7 +19,7 @@ redirect_from:
 * Fun Sports Games
   * January 2022, Technion, Shantou, China
     * [WeChat Public Account link](https://mp.weixin.qq.com/s/0wwpUg33mUEVfU1WiYf-bQ)
-    * ![image](https://github.com/ChillingLiu/ChillingLiu.github.io/blob/master/images/game.png "Game")
+    * ![image](/images/game.png)
 * Campus Best Ten Singers
   * April - May 2022, Technion, Shantou, China
     * [WeChat Public Account link](https://mp.weixin.qq.com/s/Ry10enBLIJnDekFFct0Xjw)
