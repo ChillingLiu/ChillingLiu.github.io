@@ -25,6 +25,7 @@ redirect_from:
 I made a simulation video for the experiment of the Second Harmonic Generation FROG (Mentioned above) using Blender.
 * ![image](/images/3D1.png)
 * ![image](/images/3D2.png)
+* You can find the video in [YouTube](https://www.youtube.com/watch?v=lTuWKqOZrFo).
 
 ### Posters
 The posters I made for fun and during my work in Students' Association using Photoshop and Illustrator.
