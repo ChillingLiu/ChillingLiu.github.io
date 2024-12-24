@@ -23,8 +23,8 @@ redirect_from:
 * Campus Best Ten Singers
   * April - May 2022, Technion, Shantou, China
     * [WeChat Public Account link](https://mp.weixin.qq.com/s/Ry10enBLIJnDekFFct0Xjw)
-    * ![image](https://github.com/ChillingLiu/ChillingLiu.github.io/blob/master/images/singer.png)
+    * ![image](/images/singer.png)
 * Freshmen Party
   * October 2022, Technion, Shantou, China
     * [WeChat Public Account link](https://mp.weixin.qq.com/s/sUvy11gAss8hWWO-mM-M3g)
-    * ![image](https://github.com/ChillingLiu/ChillingLiu.github.io/blob/master/images/party.png)
+    * ![image](/images/party.png)
