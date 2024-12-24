@@ -27,6 +27,7 @@ I made a simulation video for the experiment of the Second Harmonic Generation F
 * ![image](/images/3D2.png)
 
 ### Posters
+The posters I made for fun and during my work in Students' Association using Photoshop and Illustrator.
 * <img src="/images/poster_newyear.png" width="500">
 * <img src="/images/poster_gtsa.png" width="500">
 * ![image](/images/poster_party1.png)
