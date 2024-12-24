@@ -22,6 +22,10 @@ redirect_from:
 
 ## Extra-curriculum
 ### 3D Modeling
+I made a simulation video for the experiment of the Second Harmonic Generation FROG (Mentioned above) using Blender.
+* ![image](/images/3D1.png)
+* ![image](/images/3D2.png)
+
 ### Posters
 * <img src="/images/poster_newyear.png" width="450">
 * <img src="/images/poster_gtsa.png" width="450">
