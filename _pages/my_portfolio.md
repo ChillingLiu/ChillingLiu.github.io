@@ -23,7 +23,7 @@ redirect_from:
 ## Extra-curriculum
 ### 3D Modeling
 ### Posters
-* ![image](/images/poster_newyear.png)
+* ![image](/images/poster_newyear.png =x250)
 * ![image](/images/poster_gtsa.png)
 * ![image](/images/poster_party1.png)
 * ![image](/images/poster_party2.png)
