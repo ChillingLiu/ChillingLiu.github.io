@@ -33,14 +33,14 @@ redirect_from:
 * NiMotion ModBus
   * We needed to scan materials to analyze their changes under specific conditions. By integrating the RedPitaya software with a stepping machine [NiMotion ModBus](https://www.nimotion.com/), I implemented automated scanning.
   * <img src="/images/redpitaya3.png" width="500">
-  * <img src="/images/redpitaya6.png" width="500">
+  * <img src="/images/redpitaya6.png" width="700">
   
 * Graphical User Interface
   * To provide easy accessibility for other lab members, I created a Graphical User Interface using wxWidgets.
-  * <img src="/images/redpitaya4.png" width="500">
-  * <img src="/images/redpitaya5.png" width="500">
-  * The project successfully led to my co-authorship of a paper [here](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01851).
-  * You can find the [codes here](https://github.com/ChillingLiu/Software_Developement/tree/main/RedPitaya_NiMotionModBus_Controler).
+  * <img src="/images/redpitaya4.png" width="700">
+  * <img src="/images/redpitaya5.png" width="700">
+* The project successfully led to my co-authorship of a paper [here](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01851).
+* You can find the [codes here](https://github.com/ChillingLiu/Software_Developement/tree/main/RedPitaya_NiMotionModBus_Controler).
 
 # Courses Projects
 
