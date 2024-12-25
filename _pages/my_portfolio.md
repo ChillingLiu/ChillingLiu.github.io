@@ -17,6 +17,16 @@ redirect_from:
 # Data Analysis
 ## Analysis
 ## Frequency Resolved Optical Gating (FROG)
+* FROG is an algorithm for measuring the spectral phase of ultrashort laser pulses, which range from subfemtosecond to about a nanosecond in length. Invented in 1991 by Rick Trebino and Daniel J. Kane, website [here](https://frog.gatech.edu/frog.html).
+  * We focused on the Second Harmonic Generation (SHG) case of FROG. 
+  * <img src="/images/3D1.png" width="800">
+  * Our project aimed to investigate how dispersion affects the retrieved phase. Processed experimental data below. 
+  * <img src="/images/frog2.png" width="700">
+  * I conducted a thoroughout research on relevant papers and online resources to compare the effectiveness and accuracy of different algorithms of FROG, and chose the Principal Component Generalized Projections Algorithm of FROG from [here](https://frog.gatech.edu/frog.html).
+  * <img src="/images/frog1.png" width="500">
+  * I applied the algorithm to the data and analyzed the retrieved phase. With substantial time spent on testing, debugging, and collaborating with lab members to understand the optical properties, we finally achieved an accurate and perfect result.
+  * <img src="/images/frog3.png" width="700">
+  * <img src="/images/frog4.png" width="700">
 
 ## Second Development for Equipments in Lab
 * RedPitaya
