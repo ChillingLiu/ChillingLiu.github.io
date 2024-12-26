@@ -16,7 +16,8 @@ redirect_from:
 
 # Data Analysis
 ## Analysis of Optical Modulation
-
+* Processed experimental data and analyzed optical modulation.
+* ![image](/images/modulation.png)
 
 ## Frequency Resolved Optical Gating (FROG)
 * FROG is an algorithm for measuring the spectral phase of ultrashort laser pulses, which range from subfemtosecond to about a nanosecond in length. Invented in 1991 by Rick Trebino and Daniel J. Kane, website [here](https://frog.gatech.edu/frog.html).
