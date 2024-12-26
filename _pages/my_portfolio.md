@@ -8,9 +8,31 @@ redirect_from:
 ---
 
 {% include base_path %}
+This page is an extension of my research experience and personal portfolios.
 
 # Research Projects
 # Computer Science
+## Chebyshev Encryption Scheme
+* Chebyshev polynomial based encryption scheme.
+  * [Chebyshev polynomial](https://en.wikipedia.org/wiki/Chebyshev_polynomials) can be expressed recursively, the sequence of chebyshev polynomial:
+  * 1
+  * Chebshev polynomial based encryption scheme is a chaotic and sensitive system. Algorithms for encryption and decryption:
+  * 2
+  * You may notice we assume the keys to be extremely large, to address this in real-world computer, we used Square-and-product procedure to calculate the Chebyshev polynomial by matrix power, and express the large number to binary representation.
+  * 3
+  * 4
+  * 5
+  * Since the system is very sensitive, we used GNU Multiple Precision Arithmetic Library (GMP[https://gmplib.org]) to increase the arithmetic precision in C/C++. Specifically, we used the MPZ and MPF data structure for storing interger and floating numbers respectively.
+  * We introduced 2 variables, the number of significant digits of plaintexts (length, l), and the number of correct digits of the arithmetical calculations (precision, m). As the experiments showed below, the system only succeed when the l and m is somehow balanced.
+  * 6
+  * In real-world senarios, the encryption has 2 methods, symmetric block cipering, and using an enveloping technique for large plaintexts, the detailed example can be seen in our paper.
+  * A common attack to the system is [Bergamo's attack](https://arxiv.org/abs/cs/0411030).
+  * 7
+  * To perform the Bergamo's attack in computer, I used the [MPFR](https://www.mpfr.org/) library for high precision trignometric functions.
+  * We assessed the Bergamo's attack with detailed numerical example and discussed the effectiveness of it under certain conditions in the paper.
+  * I wrote the manuscript with my supervisor and submitted the paper as the first author, [prefrint here](https://www.preprints.org/manuscript/202412.0745/v1).
+  * You can find codes and detailed explanation [here](https://github.com/ChillingLiu/Chebyshev-Polynomial-based-Cryptosystem).
+
 ## Polynomial Reduction
 * Programming Reduction for NP-Complete problem: 3-Coloring.
   * Algorithm for converting 3-Coloring to 3-SAT.
@@ -21,11 +43,6 @@ redirect_from:
   * <img src="/images/color3.png" width="600">
   * <img src="/images/color4.png" width="600">
   * You can find the codes [here](https://github.com/ChillingLiu/Projects/tree/main/3Coloring).
-
-## Chebyshev Encryption Scheme
-
-  * I wrote the manuscript with my supervisor and submitted the paper as a first author, [prefrint here](https://www.preprints.org/manuscript/202412.0745/v1).
-  * You can find codes and detailed explanation [here](https://github.com/ChillingLiu/Chebyshev-Polynomial-based-Cryptosystem).
 
 # Data Analysis
 ## Analysis of Optical Modulation
