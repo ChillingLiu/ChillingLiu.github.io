@@ -46,4 +46,4 @@ Advanced Courses
 * Theory
   * Data Structures, Combinatroial Algorithms, Theory of Computation, Modern Cryptography.
 * Others
-  * Seminars in CS, Projects in CS.
+  * Seminars in LLM and Verification, Projects in CS.
