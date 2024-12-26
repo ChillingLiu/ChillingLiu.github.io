@@ -15,7 +15,9 @@ redirect_from:
 ## Chebyshev Encryption Scheme
 
 # Data Analysis
-## Analysis
+## Analysis of Optical Modulation
+
+
 ## Frequency Resolved Optical Gating (FROG)
 * FROG is an algorithm for measuring the spectral phase of ultrashort laser pulses, which range from subfemtosecond to about a nanosecond in length. Invented in 1991 by Rick Trebino and Daniel J. Kane, website [here](https://frog.gatech.edu/frog.html).
   * We focused on the Second Harmonic Generation (SHG) case of FROG. 
@@ -27,6 +29,7 @@ redirect_from:
   * I applied the algorithm to the data and analyzed the retrieved phase. With substantial time spent on testing, debugging, and collaborating with lab members to understand the optical properties, we finally achieved an accurate and perfect result.
   * <img src="/images/frog3.png" width="700">
   * <img src="/images/frog4.png" width="700">
+  * You can find the codes [here](https://github.com/ChillingLiu/Data_Analysis/tree/main/FROG).
 
 ## Second Development for Equipments in Lab
 * RedPitaya
@@ -50,7 +53,7 @@ redirect_from:
   * <img src="/images/redpitaya4.png" width="700">
   * <img src="/images/redpitaya5.png" width="700">
 * The project successfully led to my co-authorship of a paper [here](https://pubs.acs.org/doi/10.1021/acsphotonics.2c01851).
-* You can find the [codes here](https://github.com/ChillingLiu/Software_Developement/tree/main/RedPitaya_NiMotionModBus_Controler).
+* You can find the codes [here](https://github.com/ChillingLiu/Software_Developement/tree/main/RedPitaya_NiMotionModBus_Controler).
 
 # Courses Projects
 
