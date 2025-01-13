@@ -42,7 +42,7 @@ This page is an extension of my research experience and personal portfolios.
   * Example: $(a \lor b \lor c) \land (b \lor \lnot c \lor \lnot d) \land (\lnot a \lor c \lor d) \land (a \lor \lnot b \lor \lnot d)$
   * <img src="/images/color2_1.png" width="1000">
   * <img src="/images/color2_2.png" width="1000">
-  * I wrote a program to reduce the 3-SAT problem to 3-COLORING problem. The result for the example here.
+  * I wrote a program to reduce the 3-SAT problem to 3-COLORING problem. The result with an arbitrary example:
   * <img src="/images/color3.png" width="600">
   * <img src="/images/color4.png" width="600">
   * You can find the codes [here](https://github.com/ChillingLiu/Projects/tree/main/3Coloring), and project report [here](https://github.com/ChillingLiu/Projects/tree/main/3Coloring/coloring.pdf).
