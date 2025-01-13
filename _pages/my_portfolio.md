@@ -34,15 +34,18 @@ This page is an extension of my research experience and personal portfolios.
   * You can find codes and detailed explanation [here](https://github.com/ChillingLiu/Chebyshev-Polynomial-based-Cryptosystem).
 
 ## Polynomial Reduction
-* Programming Reduction for NP-Complete problem: 3-Coloring.
-  * Algorithm for converting 3-Coloring to 3-SAT.
+* Programming Reduction for NP-Complete problem: 3-COLORING.
+  * Reduction from 3-SAT to 3-COLORING.
   * <img src="/images/color1.png" width="1000">
-  * Example: $(b \lor \lnot c \lor \lnot d) \land (b \lor c \lor d) \land (\lnot a \lor \lnot c \lor \lnot d) \land (\lnot b \lor \lnot c \lor d)$
-  * <img src="/images/color2.png" width="600">
-  * I wrote a program that determines if a graph can be colored using three colors. The result for the example here.
+  * <img src="/images/color2_3.png" width="1000">
+  * <img src="/images/color2_4.png" width="1000">
+  * Example: $(a \lor b \lor c) \land (b \lor \lnot c \lor \lnot d) \land (\lnot a \lor c \lor d) \land (a \lor \lnot b \lor \lnot d)$
+  * <img src="/images/color2_1.png" width="1000">
+  * <img src="/images/color2_2.png" width="1000">
+  * I wrote a program to reduce the 3-SAT problem to 3-COLORING problem. The result for the example here.
   * <img src="/images/color3.png" width="600">
   * <img src="/images/color4.png" width="600">
-  * You can find the codes [here](https://github.com/ChillingLiu/Projects/tree/main/3Coloring).
+  * You can find the codes [here](https://github.com/ChillingLiu/Projects/tree/main/3Coloring), and project report [here](https://github.com/ChillingLiu/Projects/tree/main/3Coloring/coloring.pdf).
 
 # Data Analysis
 ## Analysis of Optical Modulation
