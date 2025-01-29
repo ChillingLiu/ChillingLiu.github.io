@@ -30,7 +30,7 @@ This page is an extension of my research experience and personal portfolios.
   * <img src="/images/chebyshev8.png" width="900">
   * To perform Bergamo's attack on the computer, I used the [MPFR](https://www.mpfr.org/) library for high-precision trigonometric functions.
   * We assessed Bergamo's attack with detailed numerical examples and discussed its effectiveness under certain conditions in the paper. (Unfortunately, the calculation of examples are too long to include here.)
-  * I wrote the manuscript with my supervisor and submitted the paper as the first author, [prefrint here](https://www.preprints.org/manuscript/202412.0745/v1).
+  * I wrote the manuscript with my supervisor and submitted the paper as the first author, [published here](https://doi.org/10.3390/cryptography9010010).
   * You can find codes and detailed explanation [here](https://github.com/ChillingLiu/Chebyshev-Polynomial-based-Cryptosystem).
 
 ## Polynomial Reduction
