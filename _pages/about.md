@@ -11,7 +11,9 @@ Hello! My name is Xiaoqi, which means "a little curious" in Chinese. If you know
 
 I'm currently a final-year undergraduate student majoring in Mathematics with Computer Science from [Technion](https://www.technion.ac.il/en/home-2/), China Campus ([GTIIT](https://www.gtiit.edu.cn/en/)). I'm very fortunate to be supervised by Prof. Morales-Luna in Computer Science research, and Prof. Karki in Data Analysis research. Throughout my research journey, I found immense satisfaction in the procedures of problem-solving and knowledge-exploring, and I'm passionate to make significant contribution in the field of computer science. You can find more about my motivation in the [Statement of Purpose](/files/StatementOfPurpose.pdf).
 
-As a student, I admire the elegance of Mathematics very much, which is why my research interest focuses on the application of Mathematical concepts, such as theoretical computer science, security, and numerical analysis. **I'm actively seeking opportunities to pursue a PhD in relevant fields starting from Fall 2025.**
+As a student, I admire the elegance of Mathematics very much, which is why my research interest focuses on the application of Mathematical concepts, such as theoretical computer science, applied cryptography and cybersecurity.
+
+I'm honored to be admitted to the PhD program in Computer Science at University of Illinois Chicago [UIC](https://www.uic.edu/) from 2025 Fall. I'm excited to work with my advisor Prof. Anrin Chakraborti in the upcoming 5 years focusing on cybersecurity!
 
 My advantages include:
 * Solid foundation in Mathematics
