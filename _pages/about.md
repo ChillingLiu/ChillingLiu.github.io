@@ -13,7 +13,7 @@ I'm currently a final-year undergraduate student majoring in Mathematics with Co
 
 As a student, I admire the elegance of Mathematics very much, which is why my research interest focuses on the application of Mathematical concepts, such as theoretical computer science, applied cryptography and cybersecurity.
 
-I'm honored to be admitted to the PhD program in Computer Science at University of Illinois Chicago [UIC](https://www.uic.edu/) from 2025 Fall. I'm excited to work with my advisor Prof. Anrin Chakraborti in the upcoming 5 years focusing on cybersecurity!
+I'm honored to be admitted to the PhD program in Computer Science at University of Illinois Chicago ([UIC](https://www.uic.edu/)) from 2025 Fall. I'm excited to work with my advisor Prof. Anrin Chakraborti in the upcoming 5 years focusing on cybersecurity!
 
 My advantages include:
 * Solid foundation in Mathematics
