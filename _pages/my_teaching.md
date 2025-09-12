@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Undergraduate Teaching Assistant"
+title: "Teaching Assistant"
 permalink: /my_teaching/
 author_profile: true
 redirect_from:
@@ -8,7 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+### UIC, Chicago, United States
+## Duties:
+* Held office hours, grading homeworks and exams.
+## Courses I taught:
+* CS 488 Introduction to Cryptography
+  * 2025 Fall
 
+
+# Undergraduate Teaching Assiatnt
 ### Technion, Shantou, China
 
 ## Duties:
@@ -18,14 +26,13 @@ redirect_from:
 ## Courses I taught:
 * Introduction to Numerical Analysis
   * Basic knowledge of numerical methods and algorithms for solving mathematical problems
-  * Spring semester, 2025 
+  * 2025 Spring 
 * Introduction to Computing with Python
   * Basic knowledge of programming with Python.
-  * Spring semester, 2025
-  * Winter semester, 2024
+  * 2025 Spring, 2024 Winter
 * Introduction to Computer Science M
   * Basic knowledge of programming with C language.
-  * Winter semester, 2024
+  * 2024 Winter
 * Pre Academic Mathematics
   * Basic knowledge for transitions from high school math to university mathematics.
-  * Summer semester, 2024
+  * 2024 Summer
