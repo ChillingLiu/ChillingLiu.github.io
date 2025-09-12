@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Undergraduate Research Assistant"
+title: "Research Assistant"
 permalink: /my_research/
 author_profile: true
 redirect_from:
