@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-## UIC, Chicago, United States
+### UIC, Chicago, United States
 ## Experience 1
 ### Supervised by Prof. Anrin Chakraborti
 * Department of Computer Science
 * August 2025 - Present
 
-## Technion, Shantou, China
+
+# Undergraduate Teaching Assistant
+### Technion, Shantou, China
 ## Experience 2
 ### Supervised by Prof. Guillermo Benito Morales Luna
 * Department of Mathematics with Computer Science
