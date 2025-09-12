@@ -24,14 +24,14 @@ author:
   avatar           : "xiaoqi.png"
   name             : "Xiaoqi LIU (刘小奇)"
   pronouns         : # example: "he/him"  
-  bio              : "Technion-Israel Institue of Technology"
-  location         : "China"
-  email            : "xiaoqi.liu@campus.technion.ac.il"
+  bio              : "University of Illinois - Chicago"
+  location         : "Chicago"
+  email            : "xliu276@uic.edu"
 
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DZuHznwAAAAJ"
   github           : "chillingliu"
 
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/xiaoqi-liu-866272227/"
   twitter          : # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
