@@ -34,11 +34,11 @@ Advanced Courses
 * Analysis
   * Calculus 3, Ordinary Differential Equations, Complex Analysis, Real Analysis.
 * Abstract Algebra
-  * Group Theory, Ring and Filed Theory, Module Theory.
+  * Group Theory, Ring Theory, Filed Theory, Module Theory.
 * Geometry
-  * Set Theory, Metric and Topological Spaces.
+  * Set Theory, Metric and Topological Spaces, Differential Geometry.
 * Others
-  * Probability Theory, Numerail Analysis, Applied Mathematics.
+  * Mathematical Logic, Probability Theory, Numerail Analysis, Applied Mathematics.
 
 ## Computer Science
 * Systems
